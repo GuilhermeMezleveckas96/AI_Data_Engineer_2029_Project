@@ -1,0 +1,22 @@
+#Aprendendo sobre Git e Git Hub
+#Códigos serão realizados no Google Colab
+
+#Curso da FGV 'https://cursosgratuitos.fgv.br/curso/introducao-ao-git-e-github'
+
+#09/09/2026 - Testando os scripts abaixo no Google Colab
+
+#Simulando instalação no Windows via G.Colab
+Git Bash
+
+#Criando um arquivo de texto no Google Drive
+
+#Permitindo o G.Colab acessar este documento (testando.txt)
+
+#Iniciando um repositório no diretório deste arquivo (testando.txt)
+git init testando.txt 
+
+#Verificando o status do arquivo (testando.txt)
+git status
+
+#Adicionando o arquivo ao controle de versão
+it add testando.txt 
