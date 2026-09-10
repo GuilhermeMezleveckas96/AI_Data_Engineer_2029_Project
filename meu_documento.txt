@@ -1,1 +1,2 @@
 Este é o meu primeiro documento.
+Esta é uma segunda linha adicionada.
